@@ -104,4 +104,4 @@
 ###### 4. (참고) [The Missing Semester of Your CS Education](https://missing-semester-kr.github.io/)
 ###### 5. (참고) [Diffchecker](https://www.diffchecker.com/)
 ###### 6. (블로그) [Unity 블로그_ 버전 관리 시스템 선택 시 고려해야 할 8가지 요소](https://blog.unity.com/kr/games/8-factors-to-consider-when-choosing-a-version-control-system)
-###### 5. (블로그) [GitHub vs GitLab vs BitBucket: Key Differences & Feature Comparison](https://marker.io/blog/github-vs-gitlab-vs-bitbucket)
+###### 7. (블로그) [GitHub vs GitLab vs BitBucket: Key Differences & Feature Comparison](https://marker.io/blog/github-vs-gitlab-vs-bitbucket)
