@@ -1,6 +1,66 @@
 # GitHub 학습
 ###### [Open UP - 오픈업 Youtube 채널](https://www.youtube.com/@OpenUP_OSS)의  [2023 OSSCA] 기본 교육 영상으로 학습
 
+***
+## 목차
+1. Introduction
+   - CLI
+   - Terminal
+   - Shell
+2. Command Line(1)
+   - 한 줄 정의: kernel, shell, terminal program
+   - 자주 사용하는 명령어
+   - 파일, 디렉터리 조작을 위한 기본 명령어
+   - 문자열 출력, 파일과 관련된 셸 기본 명령어
+   - 사용법과 매뉴얼
+   - `-`, `--` 옵션의 차이
+   - ^c, ^d, ^z, ^\
+3. Command Line(2)
+   - 라인 앞 뒤로 이동
+   - 입력했던 명령어 찾기
+   - 문자열: 큰따옴표와 작은따옴표의 차이
+   - 멀티라인 명령어 실행
+   - `tab`: 자동 완성
+   - `.[파일명]`: 숨김 파일
+   - 리눅스 콘솔 단축키
+4. Install GitBash
+   - Git Bash 설치 이유
+   - Git Bash 다운로드
+   - Git Bash 세팅
+5. Vim
+   - Vim 이란?
+   - Vim 으로 파일 열기
+   - Vim 으로 파일 작성
+   - 조금 더
+6. Reference for practicing command line
+7. Version Control
+   - 버전을 관리하는 이유
+   - 버전 관리 시스템 선택 시 고려 사항
+   - GitHub vs GitLab vs Bitbucket
+8. Repository
+   - Repository
+   - Clone
+   - Log
+9. Commit
+   - Commit 이란?
+   - 얼마나 자주 커밋을 만들어야 하는가?
+   - Commit Message
+   - Commit Checkout
+   - Detached HEAD
+   - Stash
+10. Staging Area and gitignore file
+    - Staging Area
+    - File Status Lifecycle
+    - `.gitignore` 파일
+11. Branch
+    - 브랜치 생성과 이슈트래커
+    - Merge
+    - Rebase
+12. Rebase
+    - Rebase
+    - Interactive Rebase
+
+***
 ## 참고 사이트
 - [커맨드라인 인터페이스, 셸, 터미널이란?](https://www.44bits.io/ko/keyword/command-line-interface-cli-shell-and-terminal)
 - [Git Bash란 무엇인가?](https://parkjh7764.tistory.com/39)
